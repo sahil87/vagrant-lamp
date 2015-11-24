@@ -1,1 +1,5 @@
 *.log
+*~
+.vagrant/
+operation_log.txt
+.idea/
